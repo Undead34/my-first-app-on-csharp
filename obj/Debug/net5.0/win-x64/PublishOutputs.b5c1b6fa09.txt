@@ -1,0 +1,8 @@
+C:\Users\Undead34\Videos\PassManager\bin\Debug\net5.0\win-x64\publish\PassManager.pdb
+C:\Users\Undead34\Videos\PassManager\bin\Debug\net5.0\win-x64\publish\clrcompression.dll
+C:\Users\Undead34\Videos\PassManager\bin\Debug\net5.0\win-x64\publish\clrjit.dll
+C:\Users\Undead34\Videos\PassManager\bin\Debug\net5.0\win-x64\publish\coreclr.dll
+C:\Users\Undead34\Videos\PassManager\bin\Debug\net5.0\win-x64\publish\mscordaccore.dll
+C:\Users\Undead34\Videos\PassManager\bin\Debug\net5.0\win-x64\publish\sni.dll
+C:\Users\Undead34\Videos\PassManager\bin\Debug\net5.0\win-x64\publish\SQLite.Interop.dll
+C:\Users\Undead34\Videos\PassManager\bin\Debug\net5.0\win-x64\publish\PassManager.exe
